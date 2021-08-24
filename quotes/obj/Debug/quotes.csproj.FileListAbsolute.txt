@@ -1,0 +1,10 @@
+C:\Users\tompt\source\repos\quotes\quotes\bin\Debug\quotes.exe.config
+C:\Users\tompt\source\repos\quotes\quotes\bin\Debug\quotes.exe
+C:\Users\tompt\source\repos\quotes\quotes\bin\Debug\quotes.pdb
+C:\Users\tompt\source\repos\quotes\quotes\obj\Debug\quotes.csprojAssemblyReference.cache
+C:\Users\tompt\source\repos\quotes\quotes\obj\Debug\quotes.csproj.CoreCompileInputs.cache
+C:\Users\tompt\source\repos\quotes\quotes\obj\Debug\quotes.exe
+C:\Users\tompt\source\repos\quotes\quotes\obj\Debug\quotes.pdb
+C:\Users\tompt\source\repos\quotes\quotes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tompt\source\repos\quotes\quotes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tompt\source\repos\quotes\quotes\obj\Debug\quotes.csproj.CopyComplete
